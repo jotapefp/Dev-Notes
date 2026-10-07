@@ -2,8 +2,6 @@
 
 Aplicação web simples para criar e organizar anotações rápidas do dia a dia de quem programa. Permite adicionar, fixar, editar, copiar, excluir e buscar notas, além de exportar tudo em CSV.
 
-![Dev Notes](./screenshot.png)
-
 ## ✨ Funcionalidades
 
 - **Adicionar notas** de forma rápida a partir de um campo de texto
