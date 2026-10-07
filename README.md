@@ -60,16 +60,6 @@ Não é necessário instalar nada.
 4. Digite no campo **"Busque por uma nota"** para encontrar notas pelo texto.
 5. Clique em **Exportar CSV** para baixar suas notas.
 
-## 🔮 Próximos passos
-
-Ideias para evoluir o projeto:
-
-- [ ] Persistir as notas com `localStorage`
-- [ ] Permitir editar o conteúdo das notas
-- [ ] Adicionar categorias ou etiquetas
-- [ ] Melhorar a responsividade para telas pequenas
-- [ ] Publicar online com GitHub Pages
-
 ## 👤 Autor
 
 **João Paulo Pinheiro Ferraz de Arruda**
